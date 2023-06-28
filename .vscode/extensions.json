@@ -4,8 +4,8 @@
 
 	// List of extensions which should be recommended for users of this workspace.
 	"recommendations": [
-		"telesoho.vscode-markdown-paste-image",
-		"svsool.markdown-memo"
+		"yzhang.markdown-all-in-one",
+		"kortina.vscode-markdown-notes"
 	],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
 	"unwantedRecommendations": [
